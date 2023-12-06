@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cqL90jtKJ2auJc+lLAtAN3qMT68yz7XhIK2T9thyxfILvbCYsvOT08JgU/M/Ra1gCcmKDzSVMwD90IIuXWL3ng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lukeb\\OneDrive\\Documents\\Work\\CCU-Classes\\CSCI_350\\repos\\FSharpExploration\\FSharpExploration.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lukeb\\.nuget\\packages\\fsharp.core\\8.0.100\\fsharp.core.8.0.100.nupkg.sha512"
+  ],
+  "logs": []
+}
